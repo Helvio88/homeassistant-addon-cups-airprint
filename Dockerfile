@@ -14,6 +14,7 @@ RUN apt-get update \
         libnss-mdns \
         dbus \
         colord \
+        brlaser \
         printer-driver-all \
         printer-driver-gutenprint \
         openprinting-ppds \
